@@ -1,5 +1,5 @@
 const OwnerID = 3;
-const DecimalNumber = 0;
+const DecimalNumber = 2;
 
 $(document).ready(function () {
 	const settings = {
